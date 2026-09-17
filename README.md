@@ -5,6 +5,9 @@ To simulate a RC Pase Shift Oscillator and to verify the output.
 PC with LT Spice software
 ## CIRCUIT DIAGRAM:
 
+<img width="368" height="518" alt="image" src="https://github.com/user-attachments/assets/8d6db790-1479-47e3-be3f-fb934372323d" />
+
+
 ## SIMULATION PROCEDURE:
 1.	Open the Ltspice software
 2.	
@@ -40,6 +43,14 @@ PC with LT Spice software
 
 34.	## THEORITICAL CALCULATION:
 35.	
-37.	## OUTPUTS:
+36.	<img width="350" height="537" alt="image" src="https://github.com/user-attachments/assets/c246c379-f83c-4938-b721-8cabfaecbc65" />
+	
+38.	## OUTPUTS:
 
-38.	## RESULT:
+39.	<img width="1600" height="742" alt="image" src="https://github.com/user-attachments/assets/2c16ab33-6819-45a3-98c4-dddc5b395ddb" />
+
+
+40.	## RESULT:
+
+41.	<img width="662" height="186" alt="image" src="https://github.com/user-attachments/assets/eaabbe8d-c7b9-4a56-9468-def4e17dae83" />
+
