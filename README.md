@@ -7,7 +7,7 @@ PC with LT Spice software
 
 ## SIMULATION PROCEDURE:
 1.	Open the Ltspice software
-2.	
+2.	 
 3.	FileNew Schematic
 4.	
 5.	Click component symbol  to browse and select the components
